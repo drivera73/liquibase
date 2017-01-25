@@ -4,7 +4,7 @@
 
     <groupId>org.liquibase</groupId>
     <artifactId>liquibase-parent</artifactId>
-    <version>3.5.3</version>
+    <version>3.5.3-armedia</version>
     <packaging>pom</packaging>
 
     <name>Liquibase Parent Configuration</name>
